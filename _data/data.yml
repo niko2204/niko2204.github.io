@@ -13,10 +13,10 @@ sidebar:
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: youngho.lee@gmail.com
-    phone: N/A
+    이메일: youngho.lee@gmail.com
+    전화: N/A
     timezone: Korea Timezone
-    citizenship: Korean
+    국적: 한국인
     website: uvr.ce.mokpo.ac.kr #do not add http://
     linkedin:
     xing: 
@@ -33,7 +33,7 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: Korean
+        - idiom: Korean (한국어)
           level: Native
 
         - idiom: English
@@ -42,7 +42,7 @@ sidebar:
     
 
     interests:
-      title: Interests
+      title: 관심분야
       info:
         - item: 집안일 하기
           link:
@@ -54,11 +54,11 @@ sidebar:
           link:
 
 career-profile:
-    title: Career Profile
+    title: 경력요약 (Career Profile)
     summary: |
       Youngho Lee received his BS in Dept. of Mathematics from Korea Advanced Institute of Science and Technology (KAIST), Daejon, Korea, in 1999 and M.S. degree in the Dept. of Information and communication from Gwangju Institute of Science and Technology (GIST), Gwanju, Korea, in 2001. In 2008, he received his Ph.D. (Advisor: Prof. Woontack Woo) in School of Information & Mechatronics from Gwangju Institute of Science and Technology (GIST). He was a Post-doctoral research fellow and Research Assistant Professor at GIST CTI in 2008 and 2009 respectively. Since Sept. 2009, he has been with the Mokpo National University (MNU), where he is a Professor in the Department of Computer Engineering. His research interests include Context-aware computing, HCI, virtual/augmented reality, culture technology, etc.
 education:
-    title: Education
+    title: 교육 (Education)
     info:
       - degree: Ph.D in Information & Communications
         university: Gwangju Institute of Science & Technology (GIST)
@@ -77,7 +77,7 @@ education:
           Mathematics
 
 experiences:
-    title: Experiences
+    title: 경력 (Experiences)
     info:
       - role: Professor
         time: 2009 - Present
@@ -128,7 +128,7 @@ experiences:
 #             Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
-    title: Projects
+    title: 프로젝트 (Projects)
     intro: >
       This is a list of recent projects.
     assignments:
@@ -163,7 +163,7 @@ projects:
 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: 기술과 능숙도 (Skills &amp; Proficiency)
 
     toolset:
       - name: C
@@ -185,7 +185,7 @@ skills:
         level: 60%
 
 publications:
-    title: Publications
+    title: 논문 (Publications)
     intro: |
       List of selected publications
     papers:
