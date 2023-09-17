@@ -8,23 +8,23 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Youngho Lee (이영호)
+    tagline:Professor, AR/VR researcher
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
+    email: youngho.lee@gmail.com
+    phone: N/A
+    timezone: Korea Timezone
+    citizenship:Korean
+    website: niko2204.github.io #do not add http://
     linkedin: alandoe
     xing: alandoe
-    github: sharu725
+    github: niko2204
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 'no'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -33,11 +33,11 @@ sidebar:
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Korean
           level: Native
 
-        - idiom: French
-          level: Professional
+        - idiom: English
+          level: not bad
 
         - idiom: Spanish
           level: Professional
@@ -45,10 +45,10 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: House keeping
           link:
 
-        - item: Snowboarding
+        - item: netflix
           link:
 
         - item: Cooking
@@ -57,78 +57,35 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Youngho Lee received his BS in Dept. of Mathematics from Korea Advanced Institute of Science and Technology (KAIST), Daejon, Korea, in 1999 and M.S. degree in the Dept. of Information and communication from Gwangju Institute of Science and Technology (GIST), Gwanju, Korea, in 2001. In 2008, he received his Ph.D. (Advisor: Prof. Woontack Woo) in School of Information & Mechatronics from Gwangju Institute of Science and Technology (GIST). He was a Post-doctoral research fellow and Research Assistant Professor at GIST CTI in 2008 and 2009 respectively. Since Sept. 2009, he has been with the Mokpo National University (MNU), where he is a Professor in the Department of Computer Engineering. His research interests include Context-aware computing, HCI, virtual/augmented reality, culture technology, etc.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Ph.D in Information & Communications
+        university: Gwangju Institute of Science & Technology (GIST)
+        time: 2002 - 2008
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          studying hard
+      - degree: MSc in Information & Communications
+        university: Gwangju Institute of Science & Technology (GIST)
+        time: 1999 - 2001
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          studying hard
+      - degree: BSc in  Mathematics
+        university: Korea Advanced Institute of Science and Technology (KAIST)
+        time: 1995 - 1999
+        details: |
+          Mathematics
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Professor
+        time: 2009 - Present
+        company: School of Computers, Mokpo National University
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          ce.mokpo.ac.kr 
+      
 
 certifications:
       title: Certifications
@@ -243,22 +200,19 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python
+        level: 30%
 
       - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
+        level: 5%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 5%
 
-      - name: Ruby on Rails
+      - name: android studio
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Unity3D
         level: 60%
 
 footer: >
