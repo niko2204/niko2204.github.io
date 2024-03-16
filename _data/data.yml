@@ -89,7 +89,7 @@ experiences:
         company: <a href ="http://cg-korea.org/">한국컴퓨터그래픽스학회</a>
         details: |
            2024년부터 한국컴퓨터그래픽스학회 사업이사로 임명됨. 
-      - role: 상임이사
+      - role: 논문지 편집위원 & 사업이사
         time: 2024.3.1 - 2026.2.28
         company: <a href ="https://kism.or.kr/bbs/content.php?co_id=IN07000000">한국스마미디어학회</a>
         details: |
@@ -151,17 +151,8 @@ projects:
         link: "#"
         tagline: "도서지역 재난사고 응급환자를 위한 증강현실 기반 원격협진 연구 (Emergency Medical Care Teleconsultation Supported by Augmented Reality Technologies for Urgent Patients in Islands)"
 
-workshops:
-    title: 워크샵 (Workshops)
-    intro: >
-      You can list your workshops in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    list:
-      - title: Building a Metaverse for All-Opportunities and Challenges for Future Inclusive and Accessible Virtual Environments
-        link: "https://sites.google.com/view/accessiblemetaverse"
-        authors: Youngho Lee, Joel Fredericks, Arindam Dey, Youngjun Cho, and Mark Billinghurst
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    
 
- 
 # oss:
 #     title: OSS Contributions
 #     intro: >
@@ -203,7 +194,7 @@ skills:
 
       - name: Unity3D
         level: 60%
-     
+
 publications:
     title: 논문 (Publications)
     intro: |
