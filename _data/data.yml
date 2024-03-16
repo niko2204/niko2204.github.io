@@ -193,9 +193,7 @@ skills:
 
       - name: Unity3D
         level: 60%
-      - name: JavaScript
-        level: 10%
-
+     
 publications:
     title: 논문 (Publications)
     intro: |
