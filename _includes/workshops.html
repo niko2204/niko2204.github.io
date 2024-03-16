@@ -24,7 +24,9 @@
       <li>{{ workshops.title }}</li>
     {% endif %}
     <div class="publication-authors">{{ workshops.authors }}</div>
-    <div class="publication-conference">{{ workshops.conference }}</div>
+    {% if workshops.tagline %}
+      - <span class="project-tagline">{{ workshops.tagline }}</span>
+      {% endif %}
   </div><!--//item-->
   {% endfor %}
 
